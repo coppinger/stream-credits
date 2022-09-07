@@ -1,0 +1,5 @@
+8/09/22
+
+* Create Bookstop MVP
+** Local storage
+* Fireship Firebase intro course
