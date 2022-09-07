@@ -3,3 +3,4 @@
 * Create Bookstop MVP
 ** Local storage
 * Fireship Firebase intro course
+** https://fireship.io/lessons/firebase-quickstart/
